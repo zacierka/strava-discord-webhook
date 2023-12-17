@@ -20,3 +20,6 @@ pocketbase
 
 # Go workspace file
 go.work
+
+# Pocketbase files
+pb_data
